@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+
+build/
+dist/
+
+*.spec
+
+settings.txt
+
+*.mp4
+*.mov
